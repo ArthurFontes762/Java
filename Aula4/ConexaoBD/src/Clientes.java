@@ -1,7 +1,7 @@
 import java.sql.*;
 
 public class Clientes {
-    private static final String URL = "jdbc:sqlite:C:\\Users\\Pichau\\Documents\\Proz\\Java\\Aula4\\banco.db";
+    private static final String URL = "jdbc:sqlite:C:\Users\rodrigo.rodrigues\Downloads\Java-main\Java-main\Aula4\\banco.db";
     private Connection connection;
 
     public void connect() {
